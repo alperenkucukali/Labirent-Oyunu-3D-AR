@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LabirentAG", "LabirentAG.csproj", "{B0A5A2E9-AA62-07F0-E0EF-82C103970BCD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LabirentAG.Editor", "LabirentAG.Editor.csproj", "{1C9534D7-53A8-FEE4-0876-15EA898A8A44}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B0A5A2E9-AA62-07F0-E0EF-82C103970BCD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0A5A2E9-AA62-07F0-E0EF-82C103970BCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0A5A2E9-AA62-07F0-E0EF-82C103970BCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0A5A2E9-AA62-07F0-E0EF-82C103970BCD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C9534D7-53A8-FEE4-0876-15EA898A8A44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C9534D7-53A8-FEE4-0876-15EA898A8A44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C9534D7-53A8-FEE4-0876-15EA898A8A44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C9534D7-53A8-FEE4-0876-15EA898A8A44}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
